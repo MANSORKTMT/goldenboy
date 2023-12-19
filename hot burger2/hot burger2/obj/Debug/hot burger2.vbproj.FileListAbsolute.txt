@@ -1,0 +1,10 @@
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\bin\Debug\hot burger2.exe.config
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\bin\Debug\hot burger2.exe
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\bin\Debug\hot burger2.pdb
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\bin\Debug\hot burger2.xml
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\obj\Debug\hot_burger2.ال.resources
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\obj\Debug\hot_burger2.Resources.resources
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\obj\Debug\hot burger2.vbproj.GenerateResource.Cache
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\obj\Debug\hot burger2.exe
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\obj\Debug\hot burger2.xml
+C:\Users\omer\Desktop\New folder (2)\hot burger2\hot burger2\obj\Debug\hot burger2.pdb

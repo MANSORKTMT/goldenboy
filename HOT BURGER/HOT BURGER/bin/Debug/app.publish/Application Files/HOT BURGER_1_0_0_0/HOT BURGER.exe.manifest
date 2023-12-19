@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="HOT BURGER.exe" version="1.0.0.0" publicKeyToken="b0c8c6837002ee7d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HOT BURGER" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="HOT BURGER.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HOT BURGER.exe" size="84480">
+      <assemblyIdentity name="HOT BURGER" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>k9NN6hatapV8AGIRTfhBdKm2F7HZ4ejaMJAnbckhVhQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HOT BURGER.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-5MA4499\omer" issuerKeyHash="5c99bce8586941658e331a6b6cfbeb1da4302759" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Npqqcf7LwmKnw2N72X3FPR4daNJkf5NZEefg0RIyZy4=</DigestValue></Reference></SignedInfo><SignatureValue>SVVWNYZBjJOvHbQX+Re+VxMuxdQVvir3szf/Xnr/EtlLZb/faixiYtYFWOjUyVhvYjXlRQUyqH+iEmqaV1/BrfPNs903nOjRlRWtGW0GAye9TgAVRobTIIu3Ii97ominkJSiF5f4C2QidAVYQFYcIvGFpr2iHa1neizXaW8rwXw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rE1IhSs8ESGlU0V2CvB5lIFp1/0Zzsns4tT8vFdAI2VYmYWf5OM70trzkonBUA1ll3JPISsAh3SwWhr+7SAGgWRgSPQzTRc+8vcoNVrTED7W+lk5k8hhY8gsq6XmtcKEg20uYRPBUQi1ut5t32iRYrxMm00vEOm4o6ueQmOjyx0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2e673212d1e0e71159937f64d2681d1e3dc57dd97b63c3a762c2cbfe71aa9a36" Description="" Url=""><as:assemblyIdentity name="HOT BURGER.exe" version="1.0.0.0" publicKeyToken="b0c8c6837002ee7d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-5MA4499\omer</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>05mU2QD2/faefmEJjfk6KzdVvvaVj3Z5Pmz11IeUNWY=</DigestValue></Reference></SignedInfo><SignatureValue>FxUDt6O549dSCTsDnh60JcJHH/+9IBl/Hm15SR2AxxU2wBfpVOWic4QZcG/52qOTQz6D5E4ycTgFGaTdaDoayxdTb3P9hv9zqSkJNBF9iwrJxAikL1+xEtp3G54W+D9fkNYaTA7zi3jJ74gYCPbwJ8mDV4/GBSN+G6XN15IECSQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rE1IhSs8ESGlU0V2CvB5lIFp1/0Zzsns4tT8vFdAI2VYmYWf5OM70trzkonBUA1ll3JPISsAh3SwWhr+7SAGgWRgSPQzTRc+8vcoNVrTED7W+lk5k8hhY8gsq6XmtcKEg20uYRPBUQi1ut5t32iRYrxMm00vEOm4o6ueQmOjyx0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQWWakZkxgeoVJx2zN3bainDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtADUATQBBADQANAA5ADkAXABvAG0AZQByMB4XDTIzMTIxNTA5MDQ0MFoXDTI0MTIxNDE1MDQ0MFowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQA1AE0AQQA0ADQAOQA5AFwAbwBtAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArE1IhSs8ESGlU0V2CvB5lIFp1/0Zzsns4tT8vFdAI2VYmYWf5OM70trzkonBUA1ll3JPISsAh3SwWhr+7SAGgWRgSPQzTRc+8vcoNVrTED7W+lk5k8hhY8gsq6XmtcKEg20uYRPBUQi1ut5t32iRYrxMm00vEOm4o6ueQmOjyx0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQCUGLbrfBn9TlK57pkCjW3OPZTXSm8/uywxXa+z/4T6a8/yUQiSebk6pTarDHQ/TNQ9l9/MTGdXstFw7N0pGG5tcP5XrMT6ZDiEExHPyxwE6zezBUObGDA7l2TX5IIXcmII5OutH+4CZgTdyEQpMIM34volTHCnlUMQNcFKLAltXA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

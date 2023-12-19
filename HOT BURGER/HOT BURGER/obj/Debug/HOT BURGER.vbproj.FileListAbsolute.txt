@@ -1,0 +1,14 @@
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\bin\Debug\HOT BURGER.exe.config
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\bin\Debug\HOT BURGER.exe
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\bin\Debug\HOT BURGER.pdb
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\bin\Debug\HOT BURGER.xml
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT_BURGER.Form1.resources
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT_BURGER.Resources.resources
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT BURGER.vbproj.GenerateResource.Cache
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT BURGER.exe
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT BURGER.xml
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT BURGER.pdb
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\bin\Debug\HOT BURGER.exe.manifest
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\bin\Debug\HOT BURGER.application
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT BURGER.exe.manifest
+C:\Users\omer\Desktop\New folder (2)\HOT BURGER\HOT BURGER\obj\Debug\HOT BURGER.application
